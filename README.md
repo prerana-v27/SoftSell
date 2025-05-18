@@ -1,8 +1,3 @@
-Here's a revised `README.md` tailored for your **React + JavaScript + Vite** project that includes a contact form for software license sellers:
-
----
-
-```md
 # SoftSell – React + Vite Application
 
 SoftSell is a modern, lightweight single-page application built using **React** and **Vite**. This project is designed to help software license sellers get in touch with your team via a clean, animated contact form.
@@ -116,6 +111,10 @@ import.meta.env.VITE_EMAILJS_SERVICE_ID
 
 > 🔐 Make sure `.env` is in `.gitignore` to avoid exposing secrets.
 
+## 🚀 Live Demo
+
+Check out the deployed app here: [Live Site](https://soft-sell-g8tgpzipj-1ds22cb038preranavs-projects.vercel.app/)
+
 ## 🧾 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -124,9 +123,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Made with ❤️ using React and Vite.
 
-```
-
----
-
-Let me know if you also want to add **screenshots**, **deployment instructions** (like Vercel/Netlify), or a live demo badge.
-```
